@@ -1,0 +1,44 @@
+{
+  "name": "string-emoji-mixer",
+  "version": "1.0.0",
+  "description": "An npm package for effortlessly adding random emojis to strings. This package offers a simple function to intersperse selected emojis within your text strings, making them more lively and engaging. Whether it's enhancing the appeal of social media posts or adding a touch of fun to everyday communication, String Emoji Mixer is the perfect tool for the job.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xzone911/string-emoji-mixer.git"
+  },
+  "keywords": [
+    "emoji",
+    "string",
+    "text",
+    "emoji-mixer",
+    "text-decoration",
+    "fun-text",
+    "emoji-addition",
+    "string-manipulation",
+    "text-enhancement",
+    "social-media-tools",
+    "communication-enhancement",
+    "emoji-integration",
+    "text-emoji-converter",
+    "random-emoji",
+    "emoji-utility"
+  ],
+  "author": "xzone911",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xzone911/string-emoji-mixer/issues"
+  },
+  "homepage": "https://github.com/xzone911/string-emoji-mixer#readme",
+  "jest": {
+    "testMatch": [
+      "**/test/*.js"
+    ]
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
