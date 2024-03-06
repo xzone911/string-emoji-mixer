@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xzone911/string-emoji-mixer.git"
+    "url": "https://github.com/xzone911/string-emoji-mixer"
   },
   "keywords": [
     "emoji",
@@ -31,6 +31,9 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/xzone911/string-emoji-mixer/issues"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "homepage": "https://github.com/xzone911/string-emoji-mixer#readme",
   "jest": {
