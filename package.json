@@ -30,7 +30,7 @@
     "url": "https://github.com/xzone911/string-emoji-mixer"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://registry.npmjs.org/"
   },
   "homepage": "https://github.com/xzone911/string-emoji-mixer#readme",
   "jest": {
