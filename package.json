@@ -1,6 +1,6 @@
 {
   "name": "string-emoji-mixer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An npm package for effortlessly adding random emojis to strings. This package offers a simple function to intersperse selected emojis within your text strings, making them more lively and engaging. Whether it's enhancing the appeal of social media posts or adding a touch of fun to everyday communication, String Emoji Mixer is the perfect tool for the job.",
   "main": "index.js",
   "scripts": {
